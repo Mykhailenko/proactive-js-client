@@ -1,0 +1,9 @@
+ProActive javascript connector
+
+=========
+
+Module that allows to connect to ProActive server
+
+## Installation
+
+  `npm install proactive-js-connector`

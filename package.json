@@ -1,0 +1,31 @@
+{
+  "name": "proactive-js-connector",
+  "version": "0.1.0",
+  "description": "Module that allows to connect to ProActive server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mykhailenko/proactive-js-client.git"
+  },
+  "keywords": [
+    "ProActive"
+  ],
+  "author": "Hlib Mykhailenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mykhailenko/proactive-js-client/issues"
+  },
+  "homepage": "https://github.com/Mykhailenko/proactive-js-client#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "request": "^2.87.0",
+    "sync-request": "^6.0.0",
+    "syncrequest": "^1.4.3"
+  }
+}
